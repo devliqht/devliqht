@@ -30,3 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="56" width="56"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="56" width="56"/>
 </p>
+
+
+![](https://github-readme-stats.vercel.app/api?username=devliqht&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devliqht&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
