@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/devliqht/devliqht/refs/heads/main/matt_branding.png" width="100%">
+<img src="https://raw.githubusercontent.com/devliqht/devliqht/refs/heads/main/matt_branding_new.png" width="100%">
 <hr />
 
 <p align="center">
