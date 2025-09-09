@@ -7,11 +7,11 @@
 <h3>Back-end</h3>
 	<img src="https://skills.syvixor.com/api/icons?i=php,mysql,mongodb,supabase,postgresql,apache,nodejs,laravel,">
 <h3>AI</h3>
-<img src="https://skills.syvixor.com/api/icons?i=chatgpt,googlegemini,claudeai,grok,deepseek,ollama,pytorch,githubcopilot,matplotlib,huggingface"/>
+<img src="https://skills.syvixor.com/api/icons?i=chatgpt,googlegemini,genkit,claudeai,grok,,v0,deepseek,ollama,pytorch,githubcopilot,matplotlib,huggingface"/>
 <h3>Cloud & Dev-ops</h3>
 	<img src="https://skills.syvixor.com/api/icons?i=googlecloud,digitalocean,vercel,github"/>
 <h3>Tools</h3>
-<img src="https://skills.syvixor.com/api/icons?i=wordpress,figma,canva,notion,adobeaftereffects,adobelightroom"/>
+<img src="https://skills.syvixor.com/api/icons?i=wordpress,figma,canva,notion,zed,adobeaftereffects,adobelightroom,postman,apple,linux"/>
 </div>
 
 ---
