@@ -19,3 +19,5 @@
 <img height="159" src="https://github-readme-stats.vercel.app/api?username=devliqht&theme=dark&show_icons=true&hide_border=true&include_all_commits=false&count_private=true"/>
 <img height="159" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devliqht&theme=dark&show_icons=true&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
+
+![](https://komarev.com/ghpvc/?username=devliqht&color=lightgrey&style=pixel)
