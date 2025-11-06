@@ -3,15 +3,11 @@
 <h3>Systems Programming</h3>
 	<img src="https://skills.syvixor.com/api/icons?i=c,cpp,java,python">
 <h3>Front-end</h3>
-	<img src="https://skills.syvixor.com/api/icons?i=html,css,sass,javascript,typescript,reactjs,astro,nextjs,vite,tailwindcss,flask">
+	<img src="https://skills.syvixor.com/api/icons?i=html,css,sass,javascript,typescript,reactjs,astro,nextjs,vite,tailwindcss">
 <h3>Back-end</h3>
-	<img src="https://skills.syvixor.com/api/icons?i=php,mysql,mongodb,supabase,postgresql,apache,nodejs,laravel,">
-<h3>AI</h3>
-<img src="https://skills.syvixor.com/api/icons?i=chatgpt,googlegemini,genkit,claudeai,grok,,v0,deepseek,ollama,pytorch,githubcopilot,matplotlib,huggingface"/>
+	<img src="https://skills.syvixor.com/api/icons?i=laravel,php,mysql,mongodb,supabase,apache,nodejs,nginx">
 <h3>Cloud & Dev-ops</h3>
-	<img src="https://skills.syvixor.com/api/icons?i=googlecloud,digitalocean,vercel,github"/>
-<h3>Tools</h3>
-<img src="https://skills.syvixor.com/api/icons?i=wordpress,figma,canva,notion,zed,adobeaftereffects,adobelightroom,postman,apple,linux"/>
+	<img src="https://skills.syvixor.com/api/icons?perline=15&i=googlecloud,amazonwebservices,digitalocean,github,git,vercel,apachemaven,docker"/>
 </div>
 
 ---
