@@ -4,7 +4,7 @@
 
 **SWE Intern** @ [EvoTech Software Solutions Inc.](https://evotechdev.com/)\
 **Developer** @ [Iridel Co.](https://iridel.com)\
-**COO** @ [GDG-USC](https://usc.gdgoc.tech)
+**Former COO** @ [GDG-USC](https://usc.gdgoc.tech)
 
 
 
